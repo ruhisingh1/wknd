@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://51837-506tealspoonbill-dev.adobeioruntime.net/api/v1/web/main/convert
+    url: http://localhost:4502/bin/franklin.delivery/ruhisingh1/wknd/main
     type: markup
-    suffix: '.md'
+    suffix: '.html'
